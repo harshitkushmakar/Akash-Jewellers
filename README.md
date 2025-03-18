@@ -31,6 +31,7 @@ Screenshots
 The application includes:
 
 ![WhatsApp Image 2025-03-18 at 11 34 27 PM](https://github.com/user-attachments/assets/3c39506a-25ec-4f1c-a997-02f60c7a91ff)
+
 Splash screen with the Akash Jewellers logo featuring a gold ring and crown emblem
 
 
