@@ -37,7 +37,8 @@ Splash screen with the Akash Jewellers logo featuring a gold ring and crown embl
 
 ![WhatsApp Image 2025-03-18 at 11 34 28 PM](https://github.com/user-attachments/assets/3fd539b4-fb8a-434f-83f3-97451edd5768)
 
-![WhatsApp Image 2025-03-18 at 11 34 28 PM](https://github.com/user-attachments/assets/c1744b1a-db78-4376-b187-2badf8352c51)
+![WhatsApp Image 2025-03-18 at 11 34 28 PM (1)](https://github.com/user-attachments/assets/692e412a-536e-4af8-a750-c6fdd8b53dcc)
+
 
 
 Sign-in/Sign-up screens with OTP verification
