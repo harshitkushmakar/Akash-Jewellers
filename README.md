@@ -30,10 +30,14 @@ Client Side: Customer app receives and displays the updated pricing information 
 Screenshots
 The application includes:
 
+![WhatsApp Image 2025-03-18 at 11 34 27 PM](https://github.com/user-attachments/assets/3c39506a-25ec-4f1c-a997-02f60c7a91ff)
 Splash screen with the Akash Jewellers logo featuring a gold ring and crown emblem
 
-![WhatsApp Image 2025-03-18 at 11 34 27 PM](https://github.com/user-attachments/assets/3c39506a-25ec-4f1c-a997-02f60c7a91ff)
+
 ![WhatsApp Image 2025-03-18 at 11 34 28 PM](https://github.com/user-attachments/assets/3fd539b4-fb8a-434f-83f3-97451edd5768)
+
+![WhatsApp Image 2025-03-18 at 11 34 27 PM](https://github.com/user-attachments/assets/19b6e011-fd08-470f-abf6-6d32d739ccef)
+
 Sign-in/Sign-up screens with OTP verification
 
 Customer dashboard displaying current precious metal prices
